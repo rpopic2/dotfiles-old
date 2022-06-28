@@ -5,6 +5,10 @@ mosh
 tmux
 git
 vim
+python3-pip
 
 * via keyring
 gh
+
+* via git
+fzf
