@@ -4,6 +4,7 @@ List of Installed Packages
 mosh
 tmux
 git
+vim
 
 * via keyring
 gh
