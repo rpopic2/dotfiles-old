@@ -1,0 +1,9 @@
+List of Installed Packages
+
+* via apt-get
+mosh
+tmux
+git
+
+* via keyring
+gh
