@@ -12,3 +12,6 @@ gh
 
 * via git
 fzf
+
+* via dpkg
+packages-microsoft-prod
